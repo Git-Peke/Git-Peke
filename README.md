@@ -1,4 +1,4 @@
-- 👋 Hola, Soy Git-Peke (TokiDev)
+- 👋 Hola, Soy Git-Peke (Juan F.)
 - 👀 Estoy interesado en el desarrollo Back-End con PHP
 - 🌱 Estoy interesado en aprender NodeJS y laravel 
 - 📫 Para hablar conmigo Hablame atravez del formulario de correo en mi [portafolio](www.notengo.com)(ACTUALMENTE OFF)
